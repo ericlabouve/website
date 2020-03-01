@@ -786,7 +786,8 @@ img {
 
 
 .client_logos {
-    background: #585858;
+    /*background: #585858;*/
+    background: #FFFFFF;
     padding: 60px 0;
     margin-top: 60px;
 }
